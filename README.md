@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucashsu95&label=Profile%20views&color=0e75b6&style=flat" alt="lucashsu95" /> </p>
 
-![image](https://skillicons.dev/icons?perline=6&theme=light&i=python,html,css,js,php,vue,pinia,bootstrap,laravel,vscode,phpstorm,ps,ai,pr,figma,notion,git,docker,react,tailwind,nextjs,java,spring)
+## Tech Stack
+[![image](https://skillicons.dev/icons?perline=6&theme=dark&i=python,html,css,js,php,typescript,vue,pinia,bootstrap,laravel,vscode,phpstorm,ps,ai,pr,figma,notion,mysql,github,git,md,docker,powershell,linux,react,tailwind,nextjs,typescript,java,spring)](https://skillicons.dev)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucashsu95&show_icons=true&hide=issues&&bg_color=0D1117&text_color=c9d1d9&icon_color=67c&title_color=67c&hide_border=false&count_private=true&hide_rank=true&include_all_commits=true)
 
